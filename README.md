@@ -1,4 +1,4 @@
-# renametool
+# Renametool
 
 Fájl átnevezést megkönnyítő eszköz, amellyel a sorszámokat tartalmazó fájlokat lehet átnevezni. A Grand Theft Auto V játékhoz fejlesztett Trainer, a MenyooSP-ben való ruhák telepítéshez nyújt leginkább segítséget, a gyorsabb átnevezésben. 
 
