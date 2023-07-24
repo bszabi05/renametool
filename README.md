@@ -23,4 +23,4 @@ Az átnevezendő fájlokat másold a /files mappába, amely a program .exe futta
 
 Támogasd a munkámat
 
-- [PayPal](https://www.paypal.com/donate/?hosted_button_id=HLVJT2T7T6HEE)
+- [Donate](https://www.paypal.com/donate/?hosted_button_id=HLVJT2T7T6HEE)
