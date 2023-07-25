@@ -11,7 +11,7 @@ Az átnevezendő fájlokat másold a /files mappába, amely a program .exe futta
 
 ## Authors
 
-- [@Szabi](https://github.com/bszabi)
+- [@Szabi](https://github.com/bszabi05)
 
 
 ## Screenshots
