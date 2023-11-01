@@ -2,7 +2,7 @@
 
 A projekt minden jelentős változása ebben a fájlban lesz dokumentálva.
 
-## [2.1] - 2023-08-24
+## [2.1] - 2023-11-01
 
 ### Fixed
 
