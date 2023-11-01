@@ -16,7 +16,7 @@ Az átnevezendő fájlokat másold a /files mappába, amely a program .exe futta
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/eQsGwdI)
+- [App Screenshot](https://imgur.com/eQsGwdI)
 
 
 ## Donate
