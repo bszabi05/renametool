@@ -2,6 +2,13 @@
 
 A projekt minden jelentős változása ebben a fájlban lesz dokumentálva.
 
+## [2.1] - 2023-08-24
+
+### Fixed
+
+- 100-nál nagyobb sorszámnál való crash javítva
+
+
 ## [2.0] - 2023-08-24
 
 ### Added
